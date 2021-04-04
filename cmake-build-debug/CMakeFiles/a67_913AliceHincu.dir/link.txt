@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/a67_913AliceHincu.dir/main.cpp.o -o a67_913AliceHincu 
