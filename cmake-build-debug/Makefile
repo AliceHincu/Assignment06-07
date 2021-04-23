@@ -142,6 +142,87 @@ a67_913AliceHincu/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/build
 .PHONY : a67_913AliceHincu/fast
 
+console/ConsoleUI.o: console/ConsoleUI.cpp.o
+
+.PHONY : console/ConsoleUI.o
+
+# target to build an object file
+console/ConsoleUI.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/console/ConsoleUI.cpp.o
+.PHONY : console/ConsoleUI.cpp.o
+
+console/ConsoleUI.i: console/ConsoleUI.cpp.i
+
+.PHONY : console/ConsoleUI.i
+
+# target to preprocess a source file
+console/ConsoleUI.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/console/ConsoleUI.cpp.i
+.PHONY : console/ConsoleUI.cpp.i
+
+console/ConsoleUI.s: console/ConsoleUI.cpp.s
+
+.PHONY : console/ConsoleUI.s
+
+# target to generate assembly for a file
+console/ConsoleUI.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/console/ConsoleUI.cpp.s
+.PHONY : console/ConsoleUI.cpp.s
+
+domain/Dog.o: domain/Dog.cpp.o
+
+.PHONY : domain/Dog.o
+
+# target to build an object file
+domain/Dog.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/domain/Dog.cpp.o
+.PHONY : domain/Dog.cpp.o
+
+domain/Dog.i: domain/Dog.cpp.i
+
+.PHONY : domain/Dog.i
+
+# target to preprocess a source file
+domain/Dog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/domain/Dog.cpp.i
+.PHONY : domain/Dog.cpp.i
+
+domain/Dog.s: domain/Dog.cpp.s
+
+.PHONY : domain/Dog.s
+
+# target to generate assembly for a file
+domain/Dog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/domain/Dog.cpp.s
+.PHONY : domain/Dog.cpp.s
+
+exceptions/Exception.o: exceptions/Exception.cpp.o
+
+.PHONY : exceptions/Exception.o
+
+# target to build an object file
+exceptions/Exception.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/exceptions/Exception.cpp.o
+.PHONY : exceptions/Exception.cpp.o
+
+exceptions/Exception.i: exceptions/Exception.cpp.i
+
+.PHONY : exceptions/Exception.i
+
+# target to preprocess a source file
+exceptions/Exception.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/exceptions/Exception.cpp.i
+.PHONY : exceptions/Exception.cpp.i
+
+exceptions/Exception.s: exceptions/Exception.cpp.s
+
+.PHONY : exceptions/Exception.s
+
+# target to generate assembly for a file
+exceptions/Exception.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/exceptions/Exception.cpp.s
+.PHONY : exceptions/Exception.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -169,6 +250,87 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+repository/RepositoryShelter.o: repository/RepositoryShelter.cpp.o
+
+.PHONY : repository/RepositoryShelter.o
+
+# target to build an object file
+repository/RepositoryShelter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/repository/RepositoryShelter.cpp.o
+.PHONY : repository/RepositoryShelter.cpp.o
+
+repository/RepositoryShelter.i: repository/RepositoryShelter.cpp.i
+
+.PHONY : repository/RepositoryShelter.i
+
+# target to preprocess a source file
+repository/RepositoryShelter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/repository/RepositoryShelter.cpp.i
+.PHONY : repository/RepositoryShelter.cpp.i
+
+repository/RepositoryShelter.s: repository/RepositoryShelter.cpp.s
+
+.PHONY : repository/RepositoryShelter.s
+
+# target to generate assembly for a file
+repository/RepositoryShelter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/repository/RepositoryShelter.cpp.s
+.PHONY : repository/RepositoryShelter.cpp.s
+
+service/ServiceAdmin.o: service/ServiceAdmin.cpp.o
+
+.PHONY : service/ServiceAdmin.o
+
+# target to build an object file
+service/ServiceAdmin.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/service/ServiceAdmin.cpp.o
+.PHONY : service/ServiceAdmin.cpp.o
+
+service/ServiceAdmin.i: service/ServiceAdmin.cpp.i
+
+.PHONY : service/ServiceAdmin.i
+
+# target to preprocess a source file
+service/ServiceAdmin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/service/ServiceAdmin.cpp.i
+.PHONY : service/ServiceAdmin.cpp.i
+
+service/ServiceAdmin.s: service/ServiceAdmin.cpp.s
+
+.PHONY : service/ServiceAdmin.s
+
+# target to generate assembly for a file
+service/ServiceAdmin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/service/ServiceAdmin.cpp.s
+.PHONY : service/ServiceAdmin.cpp.s
+
+validation/Validator.o: validation/Validator.cpp.o
+
+.PHONY : validation/Validator.o
+
+# target to build an object file
+validation/Validator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/validation/Validator.cpp.o
+.PHONY : validation/Validator.cpp.o
+
+validation/Validator.i: validation/Validator.cpp.i
+
+.PHONY : validation/Validator.i
+
+# target to preprocess a source file
+validation/Validator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/validation/Validator.cpp.i
+.PHONY : validation/Validator.cpp.i
+
+validation/Validator.s: validation/Validator.cpp.s
+
+.PHONY : validation/Validator.s
+
+# target to generate assembly for a file
+validation/Validator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a67_913AliceHincu.dir/build.make CMakeFiles/a67_913AliceHincu.dir/validation/Validator.cpp.s
+.PHONY : validation/Validator.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -178,9 +340,27 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... a67_913AliceHincu"
+	@echo "... console/ConsoleUI.o"
+	@echo "... console/ConsoleUI.i"
+	@echo "... console/ConsoleUI.s"
+	@echo "... domain/Dog.o"
+	@echo "... domain/Dog.i"
+	@echo "... domain/Dog.s"
+	@echo "... exceptions/Exception.o"
+	@echo "... exceptions/Exception.i"
+	@echo "... exceptions/Exception.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... repository/RepositoryShelter.o"
+	@echo "... repository/RepositoryShelter.i"
+	@echo "... repository/RepositoryShelter.s"
+	@echo "... service/ServiceAdmin.o"
+	@echo "... service/ServiceAdmin.i"
+	@echo "... service/ServiceAdmin.s"
+	@echo "... validation/Validator.o"
+	@echo "... validation/Validator.i"
+	@echo "... validation/Validator.s"
 .PHONY : help
 
 

@@ -82,7 +82,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
 		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/main.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/CMakeLists.txt">
