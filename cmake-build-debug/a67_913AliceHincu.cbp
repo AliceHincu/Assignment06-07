@@ -8,120 +8,130 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="a67_913AliceHincu">
-				<Option output="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/a67_913AliceHincu" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
+				<Option output="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/a67_913AliceHincu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_913AliceHincu"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_913AliceHincu"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="a67_913AliceHincu/fast">
-				<Option output="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/a67_913AliceHincu" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
+				<Option output="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/a67_913AliceHincu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_913AliceHincu/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_913AliceHincu/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/main.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/main.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryAdopted.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryAdopted.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.cpp">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.cpp">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h">
 			<Option target="a67_913AliceHincu"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/CMakeLists.txt">
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceUser.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceUser.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.cpp">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h">
+			<Option target="a67_913AliceHincu"/>
+		</Unit>
+		<Unit filename="C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

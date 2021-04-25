@@ -3,14 +3,10 @@
 //#include "Tests.h"
 
 int main() {
-    //Tests t;
-    //t.runAllTests();
-
-
-    RepositoryShelter repository;
-    ServiceAdmin service(repository);
-    ConsoleUI console(service);
+    RepositoryShelter repoShelter;
+    ServiceAdmin serviceAdmin(repoShelter);
+    ServiceUser serviceUser(repoShelter);
+    ConsoleUI console(serviceAdmin, serviceUser);
     console.run();
-
     return 0;
 }

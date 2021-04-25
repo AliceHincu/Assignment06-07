@@ -6,47 +6,65 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.cpp
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.cpp
 limits
 -
+fstream
+-
 ConsoleUI.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/console/ConsoleUI.h
 ../service/ServiceAdmin.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
+../service/ServiceUser.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceUser.h
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h
 string
 -
 iostream
 -
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h
 exception
 -
 string
 -
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryAdopted.h
 vector
 -
 ../domain/Dog.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h
+vector
+-
+../domain/Dog.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/domain/Dog.h
+
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
 string
 -
 ../repository/RepositoryShelter.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h
 ../exceptions/Exception.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/exceptions/Exception.h
 ../validation/Validator.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h
 
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceUser.h
+memory
+-
+../repository/RepositoryShelter.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryShelter.h
+../repository/RepositoryAdopted.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/repository/RepositoryAdopted.h
+
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/Validator.h
 ../service/ServiceAdmin.h
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/service/ServiceAdmin.h
 vector
-/mnt/c/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/vector
+C:/Users/Sakura/Documents/GitHub/FP/a67-913AliceHincu/validation/vector
 

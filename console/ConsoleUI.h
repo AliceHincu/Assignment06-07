@@ -7,14 +7,17 @@
 
 
 #include "../service/ServiceAdmin.h"
+#include "../service/ServiceUser.h"
 
 class ConsoleUI {
 private:
     // for the while loop
     bool _unicorns_exist = true;
+    std::string _typeOfFile = "";
 
     // the service
-    ServiceAdmin& _service;
+    ServiceAdmin& _serviceAdmin;
+    ServiceUser& _serviceUser;
 
     // for reading string with spaces
     std::string readString();
@@ -29,10 +32,7 @@ private:
     void runAdministrator();
 
     // run the loop for user mode
-    //void runUser();
-
-    // add 10 inputs
-    void addTenDogs();
+    void runUser();
 
     // ----------- ADMIN MODE -----------
     void addDogUi();
@@ -44,6 +44,14 @@ private:
     void updateDogUi();
 
     // ----------- USER MODE -----------
+    void userShowDogUI(const std::vector<Dog> &);
+
+    void userAdoptDogUi();
+
+    void UserNextDogUi(const std::vector<Dog> &dogs);
+
+    void userAdoptionListUi();
+
     /*void userListDogsUi();
 
     void userAdoptDogUi();
@@ -56,13 +64,17 @@ private:
 
 public:
     // constructor;
-    explicit ConsoleUI(ServiceAdmin& service);
+    explicit ConsoleUI(ServiceAdmin&, ServiceUser&);
 
     // main loop;
     void run();
 
     // destructor
     ~ConsoleUI();
+
+    std::vector<Dog> sortByBreedUi();
+
+    void userAdoptDogUIFiltered(Dog &dog, std::vector<Dog> &vector);
 };
 
 

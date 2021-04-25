@@ -87,9 +87,14 @@ void ServiceAdmin::saveShelterFile(){
     std::ofstream MyFile("../files/ShelterDogs.txt");
 
     auto dogs = this->_repo.getDogsRepo();
-    for (auto & d : dogs)
-        MyFile << d.get_name() << '\n' << d.get_breed() << '\n' << d.get_age() << '\n' << d.get_photograph() << '\n';
-
+    int position = 0;
+    for (auto & d : dogs) {
+        if (position == 0)
+            MyFile << d.get_name() << '\n' << d.get_breed() << '\n' << d.get_age() << '\n' << d.get_photograph();
+        else
+            MyFile << '\n' << d.get_name() << '\n' << d.get_breed() << '\n' << d.get_age() << '\n' << d.get_photograph();
+        position++;
+    }
     // Close the file
     MyFile.close();
 }

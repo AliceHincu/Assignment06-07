@@ -39,12 +39,12 @@ std::istream &operator>>(std::istream &is, Dog &d) {
     if (&is == &std::cin)
         std::cout << "Name: ";
     std::getline(is, d._name);
-    d._name.pop_back(); // "get rid of \r
+    //d._name.pop_back(); // "get rid of \r
 
     if (&is == &std::cin)
         std::cout << "Breed: ";
     std::getline(is, d._breed);
-    d._breed.pop_back();
+    //d._breed.pop_back();
 
     if (&is == &std::cin)
         std::cout << "Age: ";
@@ -63,7 +63,7 @@ std::istream &operator>>(std::istream &is, Dog &d) {
     if (&is == &std::cin)
         std::cout << "Photo: ";
     std::getline(is, d._photograph);
-    d._photograph.pop_back();
+    //d._photograph.pop_back();
 
     return is;
 }
